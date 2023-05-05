@@ -7,3 +7,5 @@
 UIkit에 관하여 ..
 
 [Swift의 대표성](https://github.com/zzangzzangguy/Swiftrepresentation/blob/main/README.md)
+
+변수와 타입
