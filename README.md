@@ -1,4 +1,4 @@
-# TIL..-TTL-
+# TIL 좋은사람..너는내게 첫사랑 -TTL-
 
 새는 ..알을 꺠고나온다.. 영차 영차 여기여기 영차 
 
@@ -6,4 +6,4 @@
 
 UIkit에 관하여 ..
 
-[Test](https://github.com/zzangzzangguy/TIL..-TTL-/edit/main/README.md)
+[Test]<https://github.com/zzangzzangguy/TIL..-TTL-/edit/main/README.md>
