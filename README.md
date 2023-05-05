@@ -6,4 +6,4 @@
 
 UIkit에 관하여 ..
 
-[Test]<https://github.com/zzangzzangguy/TIL..-TTL-/edit/main/README.md>
+[Test](https://github.com/zzangzzangguy/TIL..-TTL-/edit/main/README.md)
